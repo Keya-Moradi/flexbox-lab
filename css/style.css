@@ -93,6 +93,7 @@
   
   .card-footer * {
     margin-top: 8px;
+    margin: 0;
   }
   
   #subnav {
